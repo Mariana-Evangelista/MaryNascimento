@@ -1,5 +1,5 @@
 <div align="center">
- <h2>Hello, I'm Mariana do Nascimento!💬</h2>
+ <h2>Hello, I'm Mariana Evangelista!💬</h2>
  <img alt="MaryImg" height="250px" style="border-radius:300px" src="https://i.ibb.co/MZDXJFq/download20220902131354-removebg.png">
 </div>
 
